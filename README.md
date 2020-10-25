@@ -25,5 +25,5 @@ Start up the application stack by running:
 
 `docker-compose up -d`
 
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser<br>
 In developer mode, the page will reload if you make edits
