@@ -20,8 +20,7 @@ docker run -dp 3000:3000 \
     sh -c "yarn install && yarn run dev"
 ```
 
-To persist data using MySQL<br>
-Start up the application stack by running:
+To persist data using MySQL, start up the application stack by running:
 
 `docker-compose up -d`
 
